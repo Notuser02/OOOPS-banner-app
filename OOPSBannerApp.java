@@ -1,14 +1,20 @@
 /**
- * OOPSBannerApp
- * This program prints "OOPS" to the console.
- * Demonstrates basic Java program structure.
- *
+ * OOPSBannerApp UC2
+ * Prints OOPS in large banner using * and spaces
  * @author Siddhanth
- * @version 1.0
+ * @version 2.0
  */
-public class OOPSBannerApp {
 
+public class OOPSBannerApp {
     public static void main(String[] args) {
-        System.out.println("OOPS");
+
+        System.out.println(" *****     *****     ******    ***** ");
+        System.out.println("*     *   *     *    *     *  *     *");
+        System.out.println("*     *   *     *    *     *  *      ");
+        System.out.println("*     *   *     *    ******    ***** ");
+        System.out.println("*     *   *     *    *              *");
+        System.out.println("*     *   *     *    *        *     *");
+        System.out.println(" *****     *****     *         ***** ");
+
     }
 }
