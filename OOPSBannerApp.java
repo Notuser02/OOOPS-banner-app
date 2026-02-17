@@ -7,11 +7,6 @@
  * @author Siddhanth
  * @version 3.0
  */
-
-public class OOPSBannerApp {
-
-    public static void main(String[] args) {
-
         // Define a String array
         String[] lines = new String[7];
 
