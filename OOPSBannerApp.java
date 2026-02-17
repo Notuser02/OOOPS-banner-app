@@ -1,9 +1,13 @@
 /**
- * OOPSBannerApp UC2
- * Prints OOPS in large banner using * and spaces
+ * OOPSBannerApp UC3 - OOPS Banner using String.join()
+ *
+ * This program prints OOPS banner using String.join()
+ * for better memory efficiency and cleaner code.
+ *
  * @author Siddhanth
- * @version 2.0
+ * @version 3.0
  */
+
 
 public class OOPSBanner {
     public static void main(String[] args) {
@@ -21,5 +25,4 @@ public class OOPSBanner {
         System.out.println(" ** ** " + " ** ** " + " ** " + "      **");
         // Line 7
         System.out.println("  *** " + "  *** " + " ** " + "  ***** ");
-    }
-}
+
